@@ -25,7 +25,7 @@
 ## 📸 游戏截图
 
 <p align="center">
-  <img src="docs/screenshots/main.png" alt="主界面" width="600"><br>
+  <img src="images/1.png" alt="主界面" width="600"><br>
   <i>主界面 · 顶部状态栏 + 手机式导航</i>
 </p>
 
@@ -33,44 +33,35 @@
 <table>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/class.png" alt="课表与上课答题" width="380"><br>
+      <img src="images/2.png" alt="课表与上课答题" width="380"><br>
       <sub>课表 & 上课答题</sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/shop.png" alt="商店与背包" width="380"><br>
+      <img src="images/3.png" alt="商店与背包" width="380"><br>
       <sub>商店 & 背包</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/club.png" alt="社团活动" width="380"><br>
+      <img src="images/4.png" alt="社团活动" width="380"><br>
       <sub>社团活动</sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/mission.png" alt="任务系统" width="380"><br>
+      <img src="images/5.png" alt="任务系统" width="380"><br>
       <sub>任务系统</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/screenshots/exam_week.png" alt="考试周复习" width="380"><br>
+      <img src="images/6.png" alt="考试周复习" width="380"><br>
       <sub>考试周复习</sub>
     </td>
     <td align="center">
-      <img src="docs/screenshots/result.png" alt="成绩公布" width="380"><br>
+      <img src="images/7.png" alt="成绩公布" width="380"><br>
       <sub>成绩公布</sub>
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="docs/screenshots/gameplay.gif" alt="玩法演示" width="600"><br>
-  <i>玩法演示 GIF</i>
-</p>
-
-
-> 📌 截图请放在 `docs/screenshots/` 目录下，文件名与上方 `src` 一致即可自动显示。
 
 ---
 
