@@ -1,4 +1,4 @@
-# 大学副业模拟器 · College Side Hustle Simulator
+# 大学生涯模拟器 · College Side Hustle Simulator
 
 > 一款 Unity 2D 校园生活模拟游戏 —— 在 36 天内平衡学业、打工、社团与考试，**架构与代码 90% 由 AI 协作完成**。
 
